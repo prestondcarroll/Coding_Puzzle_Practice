@@ -87,7 +87,7 @@ public class TreeNode {
         return null;
     }
 
-    private static TreeNode createMinimalBST(int arr[], int start, int end){
+    public static TreeNode createMinimalBST(int arr[], int start, int end){
         if (end < start) {
             return null;
         }
