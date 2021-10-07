@@ -13,8 +13,7 @@ class Solution {
         
         //declare Stack
         //for each node
-        //  put node in stack
-        
+        //  put node in stack        
         //take first node from stack
         //while stack is not empty
         //. node .next = stack.pop
